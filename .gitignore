@@ -1,0 +1,35 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+local.properties
+
+# Kotlin compiler
+.kotlin/
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+captures/
+
+# Signing keys
+*.jks
+*.keystore
+
+# Logs and heap dumps
+*.log
+*.hprof
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
